@@ -1,0 +1,1 @@
+python accel_dec.py CINFO_GEN.BIN
